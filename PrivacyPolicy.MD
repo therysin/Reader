@@ -79,4 +79,4 @@ This Privacy Policy may be updated from time to time. If changes are made, the u
 
 ## Contact
 
-If you have questions or need support, contact:
+If you have questions or need support, please open an issue on this repo.
