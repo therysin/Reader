@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "sites": [
+    {
+      "name": "Asura",
+      "url": "https://asurascans.com"
+    },
+    {
+      "name": "Comix",
+      "url": "https://comix.co"
+    }
+  ]
+}
