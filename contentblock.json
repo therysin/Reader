@@ -1,13 +1,25 @@
 [
     {
         "trigger": {
+            "url-filter": ".*",
+            "if-domain": ["asurascans.com"]
+        },
+        "action": {
+            "type": "css-display-none",
+            "selector": "div.msb-root"
+        }
+    },
+
+    {
+        "trigger": {
             "url-filter": ".*" 
         },
         "action": {
             "type": "css-display-none",
-            "selector": "div.msb-root, div.relative.z-50.overflow-hidden"
+            "selector": "div.relative.z-50.overflow-hidden"
         }
     },
+    
     {
         "trigger": {
             "url-filter": ".*",
