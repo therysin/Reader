@@ -2,9 +2,9 @@
   "3.6": {
     "version": 1,
     "frequency": "once",
-    "title": "Title here",
-    "body": "Message here.",
-    "link": { "label": "Open", "url": "https://example.com" }
+    "title": "Leave a review",
+    "body": "Rating really helps!",
+    "link": { "label": "Rate", "url": "https://apps.apple.com/app/id6757963232?action=write-review" }
   },
   "offeveryoneElse": {
     "version": 1,
