@@ -1,0 +1,14 @@
+{
+  "3.6": {
+    "version": 1,
+    "frequency": "once",
+    "title": "Title here",
+    "body": "Message here.",
+    "link": { "label": "Open", "url": "https://example.com" }
+  },
+  "offeveryoneElse": {
+    "version": 1,
+    "title": "Update available",
+    "body": "A newer version of Reader is on the App Store."
+  }
+}
